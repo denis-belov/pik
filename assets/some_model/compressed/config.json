@@ -1,0 +1,12 @@
+{
+  "compressedTextureFormat": {
+    "s3tc": true,
+    "etc1": false,
+    "astc": false,
+    "pvrtc": false
+  },
+  "gltfCompressed": true,
+  "hdrCompressed": true,
+  "exrCompressed": true,
+  "filesCount": 104
+}
